@@ -1,5 +1,3 @@
-
-
 [
   {
     "name": "Assaspriv Creed® Syndicate",
@@ -27,6 +25,5 @@
     "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1151340/header.jpg?t=1733444184",
     "platform": "Ubisoft Store",
     "redirect_url": "https://example.com"
-  },
-  
+  }, 
 ]
