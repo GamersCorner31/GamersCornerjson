@@ -1,29 +1,31 @@
 [
   {
-    "name": "Assaspriv Creed® Syndicate",
-    "subtitle": "London, 1868. In the heart of the Industrial Revolution...",
-    "price": "₹ 2049.00",
-    "rating": "4.2",
-    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1151340/header.jpg?t=1733444184",
-    "platform": "Ubisoft Store",
-    "redirect_url": "https://store.ubisoft.com/ie/assassins-creed--syndicate---gold-edition/57062ebd88a7e316728b45dc.html?lang=en-ZW"
+    "othername": "Assassins Creed® Syndicate",
+    "othersubtitle": "London, 1868. In the heart of the Industrial Revolution...",
+    "otherprice": "₹ 2049.00",
+    "otherrating": "4.2",
+    "otherimage_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1151340/header.jpg?t=1733444184",
+    "otherplatform": "Ubisoft Store",
+    "otherredirect_url": "https://example.com"
   },
   {
-    "name": "Fallout 76",
-    "subtitle": "Bethesda Game Studios welcome you to Fallout 76...",
-    "price": "₹ 2499.00",
-    "rating": "4.6",
-    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/368500/header.jpg?t=1728575108",
-    "platform": "Microsoft Store",
-    "redirect_url": "https://www.xbox.com/en-IN/games/store/fallout-76-pc/9nkgnmnk3k3z?ocid=storeforweb"
+    "othername": "Fallout 76",
+    "othersubtitle": "Bethesda Game Studios welcome you to Fallout 76...",
+    "otherprice": "₹ 2499.00",
+    "otherrating": "4.6",
+    "otherimage_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/368500/header.jpg?t=1728575108",
+    "otherplatform": "Microsoft Store",
+    "otherredirect_url": "https://example.com"
   },
-   {
-    "name": "Assassins Creed® Syndicate",
-    "subtitle": "London, 1868. In the heart of the Industrial Revolution...",
-    "price": "₹ 2049.00",
-    "rating": "4.2",
-    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1151340/header.jpg?t=1733444184",
-    "platform": "Ubisoft Store",
-    "redirect_url": "https://store.ubisoft.com/ie/assassins-creed--syndicate---gold-edition/57062ebd88a7e316728b45dc.html?lang=en-ZW"
-  }, 
+  {
+    "othername": "Fallout 76",
+    "othersubtitle": "Bethesda Game Studios welcome you to Fallout 76...",
+    "otherprice": "₹ 2499.00",
+    "otherrating": "4.6",
+    "otherimage_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/368500/header.jpg?t=1728575108",
+    "otherplatform": "Microsoft Store",
+    "otherredirect_url": "https://example.com"
+  }
+   
+  
 ]
