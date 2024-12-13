@@ -1,0 +1,47 @@
+[
+  {
+    "discounturl": "https://wallpapers.com/images/featured/forza-horizon-4-91h7x36mh8dg54c3.jpg",
+    "discountname": "Forza Horizon 4",
+    "discountpercentage": "80%",
+    "discountoldprice": "₹1299",
+    "discountnewprice": "₹259",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/1293830/Forza_Horizon_4/"
+  },
+  {
+    "discounturl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_a461KnyG1Kz7JWD0Pf5apje7POED6tzt4P4LTMOG77uT-IYXn7mYStJYwi_l-wZRKhTyxQ",
+    "discountname": "Aliens: Dark Descent",
+    "discountpercentage": "55%",
+    "discountoldprice": "₹1,899",
+    "discountnewprice": "₹854",
+    "discountplatform": "epic",
+    "discountredirecturl": "https://store.steampowered.com/app/1150440/Aliens_Dark_Descent/"
+  },
+  {
+    "discounturl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQK6R6Qjhqzf4dnFBpRXIk9Uxt8IKxyME3wPmgUah7Giv3twNKGNKcaIhlbhu_ItsHsXjp0",
+    "discountname": "Escape Simulator",
+    "discountpercentage": "50%",
+    "discountoldprice": "₹899",
+    "discountnewprice": "₹449",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/1435790/Escape_Simulator/"
+  },
+  {
+    "discounturl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrS13nQTTJ1DpBZNaKgcDWEcpGK5PMWKdAyQ&s",
+    "discountname": "Euro Truck Simulator 2",
+    "discountpercentage": "75%",
+    "discountoldprice": "₹920",
+    "discountnewprice": "₹230",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/"
+  },
+  {
+    "discounturl": "https://upload.wikimedia.org/wikipedia/en/2/20/American_Truck_Simulator_Steam_Cover.jpg",
+    "discountname": "American Truck Simulator",
+    "discountpercentage": "75%",
+    "discountoldprice": "₹9200",
+    "discountnewprice": "₹2300",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/270880/American_Truck_Simulator/"
+  }
+]
