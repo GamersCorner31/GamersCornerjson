@@ -1,33 +1,32 @@
- [
-    {
-      "primeurl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/648350/header.jpg?t=1728993177",
-      "primename": "Jurassic Park Evolution",
-      "primeprice": "₹2855.00",
-      "primeredirecturl": "https://gaming.amazon.com/jurassic-world-evolution-epic/dp/amzn1.pg.item.140fad39-9af7-4c9c-bba1-a6d4a4b83d99?ingress=amzn&ref_=SM_JurassicWorldEvolution_S01_FGWP_CRWN",
-      "primeurl2": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1030840/header.jpg?t=1731365655",
-      "primename2": "Mafia: Definitive Edition",
-      "primeprice2": "₹2199.00",
-      "primeredirecturl2": "https://gaming.amazon.com/mafia-definitive-edition-gog/dp/amzn1.pg.item.e4bad3f3-f5e0-484c-b8df-dd2680e4910f?ingress=amzn&ref_=SM_MafiaDefinitiveEdition_S01_FGWP_CRWN"
-    },
-    {
-      "primeurl": "https://m.media-amazon.com/images/I/5140NRUSlEL._FMwebp_.jpg",
-      "primename": "Tomb Raider: Underworld",
-      "primeprice": "₹499.00",
-      "primeredirecturl": "https://gaming.amazon.com/tomb-raider-underworld-gog/dp/amzn1.pg.item.81e42040-ac4d-4f12-90f0-5dca1413ed6d?ingress=amzn&ref_=SM_TombRaiderUnderworld_S01_FGWP_CRWN",
-      "primeurl2": "https://m.media-amazon.com/images/I/71SgEFvxVVL._FMwebp_.jpg",
-      "primename2": "Tales from the Borderlands",
-      "primeprice2": "₹1100.00",
-      "primeredirecturl2": "https://gaming.amazon.com/call-of-juarez-gunslinger-gog/dp/amzn1.pg.item.18ebe935-8f05-4932-8b63-40bcc86344f6?ingress=amzn&ref_=SM_CallofJuarezGunslinger_S01_FGWP_CRWN",
-    },
-    {
-      "primeurl": "https://m.media-amazon.com/images/I/51CspAWeuXL._FMwebp_.jpg",
-      "primename": "A Plague Tale: Innocence",
-      "primeprice": "₹1499.00",
-      "primeredirecturl": "https://gaming.amazon.com/a-plague-tale-innocence-gog/dp/amzn1.pg.item.09661e4b-9ac0-4a58-b80b-eaf0b4af8957?ingress=amzn&ref_=SM_APlagueTaleInnocence_S01_FGWP_CRWN",
-      "primeurl2": "https://m.media-amazon.com/images/I/6190d3MNL6L._FMwebp_.jpg",
-      "primename2": "Disney•Pixar Cars",
-      "primeprice2": "₹999.00",
-      "primeredirecturl2": "https://gaming.amazon.com/super-meat-boy-epic/dp/amzn1.pg.item.fdd65066-5b10-49d8-9a0d-8cece25399e8?ingress=amzn&ref_=SM_SuperMeatBoy_S01_FGWP_CRWN",
-    },
-  ]
-
+[
+  {
+    "primeurl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/648350/header.jpg?t=1728993177",
+    "primename": "Jurassic Park Evolution",
+    "primeprice": "₹2855.00",
+    "primeredirecturl": "https://gaming.amazon.com/jurassic-world-evolution-epic/dp/amzn1.pg.item.140fad39-9af7-4c9c-bba1-a6d4a4b83d99?ingress=amzn&ref_=SM_JurassicWorldEvolution_S01_FGWP_CRWN",
+    "primeurl2": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1030840/header.jpg?t=1731365655",
+    "primename2": "Mafia: Definitive Edition",
+    "primeprice2": "₹2199.00",
+    "primeredirecturl2": "https://gaming.amazon.com/mafia-definitive-edition-gog/dp/amzn1.pg.item.e4bad3f3-f5e0-484c-b8df-dd2680e4910f?ingress=amzn&ref_=SM_MafiaDefinitiveEdition_S01_FGWP_CRWN"
+  },
+  {
+    "primeurl": "https://m.media-amazon.com/images/I/5140NRUSlEL._FMwebp_.jpg",
+    "primename": "Tomb Raider: Underworld",
+    "primeprice": "₹499.00",
+    "primeredirecturl": "https://gaming.amazon.com/tomb-raider-underworld-gog/dp/amzn1.pg.item.81e42040-ac4d-4f12-90f0-5dca1413ed6d?ingress=amzn&ref_=SM_TombRaiderUnderworld_S01_FGWP_CRWN",
+    "primeurl2": "https://m.media-amazon.com/images/I/71SgEFvxVVL._FMwebp_.jpg",
+    "primename2": "Tales from the Borderlands",
+    "primeprice2": "₹1100.00",
+    "primeredirecturl2": "https://gaming.amazon.com/call-of-juarez-gunslinger-gog/dp/amzn1.pg.item.18ebe935-8f05-4932-8b63-40bcc86344f6?ingress=amzn&ref_=SM_CallofJuarezGunslinger_S01_FGWP_CRWN"
+  },
+  {
+    "primeurl": "https://m.media-amazon.com/images/I/51CspAWeuXL._FMwebp_.jpg",
+    "primename": "A Plague Tale: Innocence",
+    "primeprice": "₹1499.00",
+    "primeredirecturl": "https://gaming.amazon.com/a-plague-tale-innocence-gog/dp/amzn1.pg.item.09661e4b-9ac0-4a58-b80b-eaf0b4af8957?ingress=amzn&ref_=SM_APlagueTaleInnocence_S01_FGWP_CRWN",
+    "primeurl2": "https://m.media-amazon.com/images/I/6190d3MNL6L._FMwebp_.jpg",
+    "primename2": "Disney•Pixar Cars",
+    "primeprice2": "₹999.00",
+    "primeredirecturl2": "https://gaming.amazon.com/super-meat-boy-epic/dp/amzn1.pg.item.fdd65066-5b10-49d8-9a0d-8cece25399e8?ingress=amzn&ref_=SM_SuperMeatBoy_S01_FGWP_CRWN"
+  }
+]
