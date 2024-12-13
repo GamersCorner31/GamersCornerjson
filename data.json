@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Assassins Creed® Syndicate",
+    "subtitle": "London, 1868. In the heart of the Industrial Revolution...",
+    "price": "₹ 2049.00",
+    "rating": "4.2",
+    "image_url": "https://example.com/image.jpg",
+    "platform": "Ubisoft Store",
+    "redirect_url": "https://example.com"
+  },
+  {
+    "name": "Fallout 76",
+    "subtitle": "Bethesda Game Studios welcome you to Fallout 76...",
+    "price": "₹ 2499.00",
+    "rating": "4.6",
+    "image_url": "https://example.com/image2.jpg",
+    "platform": "Microsoft Store",
+    "redirect_url": "https://example.com"
+  }
+]
