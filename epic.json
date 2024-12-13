@@ -1,12 +1,11 @@
 [
-{
+  {
     "epicname": "Bus Simulator 21",
-    "epicsubtitle": "Career Mode combines Sandbox Mode with the campaigns economic system. You have access to all the bus stops and bus models right from the start of the game and dont have to unlock everything gradually by completing missions.",
+    "epicsubtitle": "Career Mode combines Sandbox Mode with the campaign's economic system. You have access to all the bus stops and bus models right from the start of the game and don't have to unlock everything gradually by completing missions.",
     "epicprice": "₹ 2049.00",
     "epicrating": "4.2",
     "epicurl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/976590/capsule_616x353.jpg?t=1732613730",
     "epicredirecturl": "https://store.epicgames.com/en-US/p/bus-simulator-21"
-   
   },
   {
     "epicname": "Brotato",
@@ -15,15 +14,13 @@
     "epicrating": "4.7",
     "epicurl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1942280/capsule_616x353.jpg?t=1733310801",
     "epicredirecturl": "https://store.epicgames.com/en-US/p/brotato-ed4097"
-   
   },
-    {
-    "epicname": "Lego Star Wars The Skywalker Sega",
+  {
+    "epicname": "Lego Star Wars The Skywalker Saga",
     "epicsubtitle": "The galaxy is yours in LEGO® Star Wars™: The Skywalker Saga. Experience memorable moments and nonstop action from all nine Skywalker saga films reimagined with signature LEGO humor.",
     "epicprice": "₹ 2499.00",
     "epicrating": "4.8",
     "epicurl": "https://images.squarespace-cdn.com/content/v1/5fbc4a62c2150e62cfcb09aa/3048c6d6-6479-4248-afcf-5d4e9618fdda/legosaga.jpg",
     "epicredirecturl": "https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga"
-   
-  },
+  }
 ]
