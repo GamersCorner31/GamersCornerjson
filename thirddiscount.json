@@ -7,41 +7,5 @@
     "thirddiscountnewprice": "₹1559",
     "thirddiscountplatform": "Steam",
     "thirddiscountredirecturl": ""
-  },
-  {
-    "thirddiscounturl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3SWKa2ihYM_daHOgbMSt2KV_CxH3K6gT9KYAsRKgjNDgTop_U8NwenUO08PAFvTcAHtXn",
-    "thirddiscountname": "NBA 2K25",
-    "thirddiscountpercentage": "60%",
-    "thirddiscountoldprice": "₹3999",
-    "thirddiscountnewprice": "₹1600",
-    "thirddiscountplatform": "Steam",
-    "thirddiscountredirecturl": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/"
-  },
-  {
-    "thirddiscounturl": "https://assets.xboxservices.com/assets/8a/e8/8ae86a0b-8470-4436-ba90-eea505207ea1.jpg?n=Forza-Horizon-5_Sharing_200x200.jpg",
-    "thirddiscountname": "Forza Horizon 5",
-    "thirddiscountpercentage": "50%",
-    "thirddiscountoldprice": "₹3499",
-    "thirddiscountnewprice": "₹1749",
-    "thirddiscountplatform": "Steam",
-    "thirddiscountredirecturl": "https://store.steampowered.com/app/1551360/Forza_Horizon_5/"
-  },
-  {
-    "thirddiscounturl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsqk6z-5f7SzaPLrahzAUaY_WmYc0RCBLCT-BP2f6YyGXfxVbaPZKXThNToLsCAY0tkR9DaA",
-    "thirddiscountname": "World War Z",
-    "thirddiscountpercentage": "67%",
-    "thirddiscountoldprice": "₹1499",
-    "thirddiscountnewprice": "₹494",
-    "thirddiscountplatform": "Steam",
-    "thirddiscountredirecturl": "https://store.steampowered.com/app/699130/World_War_Z/"
-  },
-  {
-    "thirddiscounturl": "https://upload.wikimedia.org/wikipedia/en/5/5e/Tomb_Raider_IV%E2%80%93VI_Remastered.jpg",
-    "thirddiscountname": "Tomb Raider IV-VI Remastered",
-    "thirddiscountpercentage": "10%",
-    "thirddiscountoldprice": "₹1300",
-    "thirddiscountnewprice": "₹1170",
-    "thirddiscountplatform": "Steam",
-    "thirddiscountredirecturl": "https://store.steampowered.com/app/2525380/Tomb_Raider_IVVI_Remastered/"
   }
 ]
