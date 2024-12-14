@@ -43,5 +43,14 @@
     "discountnewprice": "₹2300",
     "discountplatform": "Steam",
     "discountredirecturl": "https://store.steampowered.com/app/270880/American_Truck_Simulator/"
+  },
+    {
+    "discounturl": "https://upload.wikimedia.org/wikipedia/en/2/20/American_Truck_Simulator_Steam_Cover.jpg",
+    "discountname": "American Truck Simulator",
+    "discountpercentage": "75%",
+    "discountoldprice": "₹9200",
+    "discountnewprice": "₹2300",
+    "discountplatform": "Steam",
+    "discountredirecturl": "https://store.steampowered.com/app/270880/American_Truck_Simulator/"
   }
 ]
