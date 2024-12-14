@@ -7,5 +7,41 @@
     "seconddiscountnewprice": "₹124",
     "seconddiscountplatform": "Steam",
     "seconddiscountredirecturl": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/"
+  },
+  {
+    "seconddiscounturl": "https://upload.wikimedia.org/wikipedia/en/f/fd/Kingdom_Come_Deliverance.jpg",
+    "seconddiscountname": "Kingdom Come: Deliverance ddd",
+    "seconddiscountpercentage": "80%",
+    "seconddiscountoldprice": "₹1680",
+    "seconddiscountnewprice": "₹336",
+    "seconddiscountplatform": "Steam",
+    "seconddiscountredirecturl": "https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/"
+  },
+  {
+    "seconddiscounturl": "https://upload.wikimedia.org/wikipedia/en/0/0d/Mafia_II_Boxart.jpg",
+    "seconddiscountname": "Mafia II (Classic)",
+    "seconddiscountpercentage": "75%",
+    "seconddiscountoldprice": "₹1699",
+    "seconddiscountnewprice": "₹424",
+    "seconddiscountplatform": "Steam",
+    "seconddiscountredirecturl": "https://store.steampowered.com/app/50130/Mafia_II_Classic/"
+  },
+  {
+    "seconddiscounturl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/346010/ss_a48225e9e81c864ab72443ed6ad96a62152783de.116x65.jpg?t=1733157641",
+    "seconddiscountname": "Besiege",
+    "seconddiscountpercentage": "75%",
+    "seconddiscountoldprice": "₹529",
+    "seconddiscountnewprice": "₹132",
+    "seconddiscountplatform": "Steam",
+    "seconddiscountredirecturl": "https://store.steampowered.com/app/346010/Besiege/"
+  },
+  {
+    "seconddiscounturl": "https://upload.wikimedia.org/wikipedia/en/5/5c/Maneater_cover_art.jpg",
+    "seconddiscountname": "Maneater",
+    "seconddiscountpercentage": "75%",
+    "seconddiscountoldprice": "₹899",
+    "seconddiscountnewprice": "₹303",
+    "seconddiscountplatform": "Steam",
+    "seconddiscountredirecturl": "https://store.steampowered.com/app/629820/Maneater/"
   }
 ]
